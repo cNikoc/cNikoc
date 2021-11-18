@@ -9,7 +9,7 @@
 <h3 align="center"><img src='https://inkster.co/wp-content/uploads/2020/01/Phone_INK.gif' width="60px"></h3>
 <p align="center">
 <a href = 'https://www.linkedin.com/in/cristian-nicolas-castagnetto-full-stack-dev/' target="_blank">  <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> </a> </a>  </a> 
-<a href = 'https://www.github.com/cNikoc/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<!-- <a href = 'https://www.github.com/cNikoc/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </p>
-
+ -->
 
