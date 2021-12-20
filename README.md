@@ -19,10 +19,22 @@
 
  <h3 align="center">My deployed projects:</h3>
  <div align="center">
-  <a target="_blank" href="https://rocketprojectarg.netlify.app/">Rocket</a>
+  <a target="_BLANK" href="https://rocketprojectarg.netlify.app/">Rocket</a>
  </div>
  <div align="center">
-   <a align="center"  target="_blank" href="https://cnikoc.github.io/Calculator-Calculadora./">Calculator</a>
+   <a align="center" target="_BLANK" href="https://pop-korn.vercel.app/">Pop Korn</a>
+ </div>
+ <div align="center">
+   <a align="center" target="_BLANK" href="https://weather-app-cnikoc.vercel.app/home">Weather App</a>
+ </div>
+ <div align="center">
+   <a align="center" target="_BLANK" href="https://cnikoc.github.io/Calculator-Calculadora./">Calculator</a>
+ </div>
+ <div align="center">
+   <a align="center" target="_BLANK" href="https://cnikoc.github.io/Clock-Reloj/">Clock</a>
+ </div>
+  <div align="center">
+   <a align="center" target="_BLANK" href="https://cnikoc.github.io/Rock-Paper-Scissors/">Rock Paper Scissors Game</a>
  </div>
 
 
