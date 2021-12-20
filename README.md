@@ -16,8 +16,13 @@
 <!-- <a href = 'https://www.github.com/cNikoc/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </p>
  -->
- 
+
  <h3 align="center">My deployed projects:</h3>
- <a align="center" target="_blank" href="https://rocketprojectarg.netlify.app/">Rocket</a>
- <a align="center"  target="_blank" href="https://cnikoc.github.io/Calculator-Calculadora./">Calc</a>
+ <div align="center">
+  <a target="_blank" href="https://rocketprojectarg.netlify.app/">Rocket</a>
+ </div>
+ <div align="center">
+   <a align="center"  target="_blank" href="https://cnikoc.github.io/Calculator-Calculadora./">Calculator</a>
+ </div>
+
 
