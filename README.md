@@ -18,6 +18,6 @@
  -->
  
  <h3 align="center">My deployed projects:</h3>
- <a align="center" target="_blank">https://rocketprojectarg.netlify.app/</a>
- <a align="center"  target="_blank">https://cnikoc.github.io/Calculator-Calculadora./</a>
+ <a align="center" target="_blank" href="https://rocketprojectarg.netlify.app/">Rocket</a>
+ <a align="center"  target="_blank" href="https://cnikoc.github.io/Calculator-Calculadora./">Calc</a>
 
