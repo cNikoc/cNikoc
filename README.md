@@ -17,7 +17,7 @@
    <a align="center" target="_BLANK" href="https://pop-korn.vercel.app/">Pop Korn</a>
  </div>
  <div align="center">
-   <a align="center" target="_BLANK" href="https://weather-app-cnikoc.vercel.app/home">Weather App</a>
+   <a align="center" target="_BLANK" href="https://weather-app-cnikoc.vercel.app">Weather App</a>
  </div>
  <div align="center">
    <a align="center" target="_BLANK" href="https://cnikoc.github.io/Calculator-Calculadora./">Calculator</a>
