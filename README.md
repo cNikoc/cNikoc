@@ -19,6 +19,9 @@
 
  <h3 align="center">My deployed projects:</h3>
  <div align="center">
+  <a target="_BLANK" href="https://cnikoc.github.io/Portfolio/">Mi portafolio</a>
+ </div>
+ <div align="center">
   <a target="_BLANK" href="https://rocketprojectarg.netlify.app/">Rocket</a>
  </div>
  <div align="center">
