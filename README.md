@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm Cristian Nicolás Castagnetto!</h1>
+<h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>< I'm Cristian Nicolás Castagnetto /></h1>
 <h3 align="center">(although everyone calls me just 'Niko') A passionate Full-Stack Developer from Buenos Aires, Argentina</h3>
 
 <h3 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
