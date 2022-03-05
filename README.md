@@ -1,4 +1,4 @@
-<h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>I'm < Cristian Nicolás Castagnetto /></h1>
+<h1 align="center">Hi! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> I'm < Cristian Nicolás Castagnetto /></h1>
 <h3 align="center">(although everyone calls me just 'Niko') A passionate Full-Stack Developer from Buenos Aires, Argentina</h3>
  <h4 align="center">Currently working remotely and full-time as Front-End developer at MPSoft Chile.</h4>
 
