@@ -2,7 +2,7 @@
 <h3 align="center">(although everyone calls me just 'Niko') A passionate Full-Stack Developer from Buenos Aires, Argentina</h3>
  <h4 align="center">Currently working remotely and full-time as Front-End developer at InMotion Chile (www.grupoinmotion.cl).</h4>
 
-<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='32px'></h3>
+<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width='32'></h3>
  
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -44,9 +44,9 @@
  </div>
  
 <div align="center">
-<spam align="center"><img src='https://inkster.co/wp-content/uploads/2020/01/Phone_INK.gif' width="60px" align="center"></h3>
+<spam align="center"><img src='https://inkster.co/wp-content/uploads/2020/01/Phone_INK.gif' width="60" align="center"></h3>
 <span align="center"><b>Let's connect in LinkedIn! click below</b></span>
-<span align="center"><img src='https://inkster.co/wp-content/uploads/2020/01/Phone_INK.gif' width="60px" align="center"></h3>
+<span align="center"><img src='https://inkster.co/wp-content/uploads/2020/01/Phone_INK.gif' width="60" align="center"></h3>
  </div>
 <p align="center">
 <a href = 'https://www.linkedin.com/in/cristian-nicolas-castagnetto-full-stack-dev/' target="_blank">  <img width='32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/> </a> </a>  </a> 
