@@ -14,8 +14,8 @@
     src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" 
     width='32'>
 </h3>
- 
-/* <p align="center"> 
+
+<p align="center" display="hidden"> 
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
         alt="HTML" width="40" height="40"/>
@@ -72,7 +72,7 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
         alt="POSTMAN" width="40" height="40"/>
     </a>
-</p> */
+</p>
  
 <h3 align="center">
      My deployed projects:
