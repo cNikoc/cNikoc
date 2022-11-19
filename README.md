@@ -113,7 +113,7 @@
     </span>
 </div>
 <p align="center">
-    <a href = 'https://www.linkedin.com/in/castagnetto-dev/' target="_blank">
+    <a href = 'https://www.linkedin.com/in/castagnetto-dev/' target="_BLANK">
         <img 
         width='32px' align='center' 
         src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"
