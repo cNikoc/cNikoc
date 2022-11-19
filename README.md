@@ -8,9 +8,6 @@
 <h3 align="center">
     (although everyone calls me just 'Niko') A passionate Full-Stack Developer from Buenos Aires, Argentina
 </h3>
-<h4 align="center">
-    Currently working remotely and full-time as Front-End developer at InMotion Chile (www.grupoinmotion.cl).
-</h4>
 
 <h3 align="center">
     <img 
@@ -116,7 +113,7 @@
     </span>
 </div>
 <p align="center">
-    <a href = 'https://www.linkedin.com/in/cristian-nicolas-castagnetto-full-stack-dev/' target="_blank">
+    <a href = 'https://www.linkedin.com/in/castagnetto-dev/' target="_blank">
         <img 
         width='32px' align='center' 
         src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"
